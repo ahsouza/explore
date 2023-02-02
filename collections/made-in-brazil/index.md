@@ -10,6 +10,7 @@ items:
   - heartcombo/devise
   - htop-dev/htop/
   - lua/lua
+  - anahataart/tamar
   - RocketChat/Rocket.Chat
   - tsuru/tsuru
   - goreleaser/goreleaser
